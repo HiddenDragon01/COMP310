@@ -1,0 +1,2 @@
+set z 30
+print z

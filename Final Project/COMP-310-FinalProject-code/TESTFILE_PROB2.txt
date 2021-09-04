@@ -1,0 +1,10 @@
+mount partition2 10 5
+open_EXAM 0 file1
+write_EXAM 0 [hello world test]
+close_EXAM 0
+close_EXAM 0
+open_EXAM 0 file1
+read_EXAM 0 var
+close_EXAM 0
+print var
+quit

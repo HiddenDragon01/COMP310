@@ -1,0 +1,9 @@
+set a a1
+set b b1
+set c c1
+set d d1
+help
+print a
+print b
+print c
+print d

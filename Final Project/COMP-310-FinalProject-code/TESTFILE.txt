@@ -1,0 +1,5 @@
+mount partition0 10 5
+write file1 [hello world test]
+read file1 var
+print var 
+quit
